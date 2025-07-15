@@ -1,0 +1,13 @@
+asyncio
+edge-tts
+playsound==1.2.2
+SpeechRecognition
+wikipedia
+pygetwindow
+pyautogui
+Pillow
+requests
+python-dotenv
+openai>=1.0.0
+tk
+PyAudio
