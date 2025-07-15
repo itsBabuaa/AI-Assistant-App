@@ -133,9 +133,3 @@ If you have ideas, open an issue or fork and improve it.
 ## 📜 **License**
 
 MIT License – free to use & modify.
-
-✅ **Add badges (Python version, License, etc.)**
-✅ **Include a ready-made `.env.example`**
-✅ Or generate **sample screenshots/GIF placeholders** for the repo?
-
-What should I include next?
