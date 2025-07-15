@@ -8,15 +8,15 @@ It responds to **voice or text commands**, opens websites, searches the web, exp
 
 ## ✨ **Features**
 
-✅ **Voice Recognition** – Speak naturally using your microphone
-✅ **Natural Voice Replies** – Microsoft Edge TTS with Jenny Neural voice
-✅ **Smart Fallback Replies** – Powered by **Google Gemini AI**
-✅ **Search & Answer** – Google, YouTube, ChatGPT, or Wikipedia
-✅ **Timers & Reminders** – “Set a timer for 5 minutes”
-✅ **Open/Close Apps & Websites** – “Open YouTube” or “Close Chrome”
-✅ **Spotify Music Control** – Play songs directly on Spotify
-✅ **Animated GUI** – Anime-style GIF background with Tkinter
-✅ **Small Talk Responses** – Friendly interactions
+* **Voice Recognition** – Speak naturally using your microphone
+* **Natural Voice Replies** – Microsoft Edge TTS with Jenny Neural voice
+* **Smart Fallback Replies** – Powered by **Google Gemini AI**
+* **Search & Answer** – Google, YouTube, ChatGPT, or Wikipedia
+* **Timers & Reminders** – “Set a timer for 5 minutes”
+* **Open/Close Apps & Websites** – “Open YouTube” or “Close Chrome”
+* **Spotify Music Control** – Play songs directly on Spotify
+* **Animated GUI** – Anime-style GIF background with Tkinter
+* **Small Talk Responses** – Friendly interactions
 
 ---
 
